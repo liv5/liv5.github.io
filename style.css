@@ -39,12 +39,12 @@ p   {
 }
 
 h1, h2, h3, h4 {
+	font-family:courier;
     font-weight: 400;
     padding: 0;
 }
 
 h1 {
-	font-family: courier;
     margin-bottom: 10px;
     font-size:300%;
     padding: 0px;
