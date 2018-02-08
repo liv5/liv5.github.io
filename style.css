@@ -87,7 +87,7 @@ including differences between active and visited links.
 */
 a {
     color: grey;
-    margin: 100;
+    margin: 0;
     padding: 0;
     vertical-align: baseline;
 }
