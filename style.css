@@ -28,6 +28,7 @@ body{
     font-size: 18px;
 }
 
+.indent { text-indent: 30px; }
 
 p   {
 /    font-size: 22px;
