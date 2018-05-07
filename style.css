@@ -28,7 +28,9 @@ body{
     font-size: 18px;
 }
 
-.indent { text-indent: 30px; }
+div.a {
+    text-indent: 50px;
+}
 
 p   {
 /    font-size: 22px;
