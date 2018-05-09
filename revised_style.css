@@ -101,8 +101,8 @@ a:visited {
 
 a:hover {
 /   text-decoration: blink;
-    color: blue;
-	background-color: white;
+    color: black;
+	background-color: grey;
 }
 
 /* 
