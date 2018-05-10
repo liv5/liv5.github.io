@@ -166,3 +166,8 @@ hr {
     margin: 0 auto 0 0;
     color: #999;
 }
+
+address { 
+    display: block;
+    font-style: normal;
+} 
