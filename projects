@@ -1,1 +1,20 @@
 
+<!DOCTYPE html>
+<html>
+<body>
+<head>
+<link rel="stylesheet" type="text/css" href="revised_style.css">
+<style> 
+      #myHeader {
+    background-color: #cce6ff;
+    color: black;
+    padding: 40px;
+    text-align: center;
+} 
+</style>
+</head>
+
+    <center><h1 id="myHeader">Course Projects</h1></center>
+  </style> 
+  
+  
