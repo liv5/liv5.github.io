@@ -1,8 +1,8 @@
 body{
     margin: 0 auto;
-    background-color: #ccffff;
-	div {
-		background: linear-gradient(to bottom, #66ccff 0%, #ff99cc 100%); }
+    background-color: #d6f5f5;
+}
+
 /*	--------- FONT FAMILY --------
  	following are some optional font families. Usually a family 
 	is safer to choose than a specific font, 
