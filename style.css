@@ -2,7 +2,7 @@ body{
     margin: 0 auto;
     background-color: #ffe6e6;
 }
-<body style="background-color: #ffe6e6;">
+body {background-color: coral;}
 
 /*	--------- FONT FAMILY --------
  	following are some optional font families. Usually a family 
